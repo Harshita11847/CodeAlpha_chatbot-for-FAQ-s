@@ -1,150 +1,122 @@
 [
   {
-    "question": "Hello",
-    "answer": "Hello! How can I help you today?"
+    "question": "What is a healthy diet?",
+    "answer": "A healthy diet includes fruits, vegetables, whole grains, lean proteins, healthy fats, and plenty of water while limiting processed foods, sugar, and excess salt."
   },
   {
-    "question": "Hi",
-    "answer": "Hi there! What can I do for you?"
+    "question": "How much water should I drink daily?",
+    "answer": "Most adults should drink around 2 to 3 liters of water daily, depending on age, activity level, and climate."
   },
   {
-    "question": "How are you?",
-    "answer": "I'm doing great! Thanks for asking. How can I assist you?"
+    "question": "What are proteins?",
+    "answer": "Proteins are nutrients that help build and repair muscles and tissues. Good sources include eggs, fish, chicken, beans, lentils, and dairy products."
   },
   {
-    "question": "What is your name?",
-    "answer": "I'm an AI chatbot created to help answer your questions."
+    "question": "What are carbohydrates?",
+    "answer": "Carbohydrates are the body's main source of energy. Choose complex carbohydrates like brown rice, oats, and whole grains."
   },
   {
-    "question": "Who created you?",
-    "answer": "I was created by developers using artificial intelligence technologies."
+    "question": "What are healthy fats?",
+    "answer": "Healthy fats are found in nuts, seeds, avocados, olive oil, and fatty fish. They support heart and brain health."
   },
   {
-    "question": "What can you do?",
-    "answer": "I can answer questions, provide information, solve basic problems, and assist with various tasks."
+    "question": "How many meals should I eat per day?",
+    "answer": "Most people benefit from eating three balanced meals with one or two healthy snacks if needed."
   },
   {
-    "question": "What is AI?",
-    "answer": "Artificial Intelligence (AI) is the simulation of human intelligence in machines that can learn, reason, and solve problems."
+    "question": "Is breakfast important?",
+    "answer": "Yes. A balanced breakfast provides energy, improves concentration, and helps control hunger throughout the day."
   },
   {
-    "question": "What is Machine Learning?",
-    "answer": "Machine Learning is a branch of AI that enables computers to learn from data without being explicitly programmed."
+    "question": "Can I lose weight without exercise?",
+    "answer": "Weight loss is possible through calorie control, but combining a healthy diet with regular exercise gives better and healthier results."
   },
   {
-    "question": "What is Python?",
-    "answer": "Python is a popular programming language known for its simplicity and versatility."
+    "question": "Which foods help in weight loss?",
+    "answer": "Vegetables, fruits, lean proteins, whole grains, legumes, and high-fiber foods can help support healthy weight loss."
   },
   {
-    "question": "What is Java?",
-    "answer": "Java is an object-oriented programming language widely used for web, desktop, and mobile applications."
+    "question": "What foods should I avoid?",
+    "answer": "Limit sugary drinks, fried foods, processed snacks, excessive sweets, and foods high in saturated fats and sodium."
   },
   {
-    "question": "What is HTML?",
-    "answer": "HTML stands for HyperText Markup Language and is used to create web pages."
+    "question": "How much protein do I need daily?",
+    "answer": "Most adults need about 0.8 grams of protein per kilogram of body weight. Active individuals may require more."
   },
   {
-    "question": "What is CSS?",
-    "answer": "CSS stands for Cascading Style Sheets and is used to style HTML web pages."
+    "question": "Are fruits healthy?",
+    "answer": "Yes. Fruits provide vitamins, minerals, fiber, and antioxidants that support overall health."
   },
   {
-    "question": "What is JavaScript?",
-    "answer": "JavaScript is a programming language used to make websites interactive."
+    "question": "Are vegetables important?",
+    "answer": "Yes. Vegetables are rich in vitamins, minerals, and fiber while being low in calories."
   },
   {
-    "question": "What is Git?",
-    "answer": "Git is a distributed version control system used to track changes in source code."
+    "question": "What is fiber?",
+    "answer": "Fiber helps digestion, controls blood sugar, lowers cholesterol, and keeps you feeling full longer."
   },
   {
-    "question": "What is GitHub?",
-    "answer": "GitHub is a cloud platform that hosts Git repositories for collaboration and version control."
+    "question": "Can I eat rice while dieting?",
+    "answer": "Yes. Rice can be part of a healthy diet when eaten in appropriate portions, especially brown rice or other whole grains."
   },
   {
-    "question": "What is cloud computing?",
-    "answer": "Cloud computing provides computing resources such as servers and storage over the internet."
+    "question": "What are superfoods?",
+    "answer": "Superfoods are nutrient-rich foods such as blueberries, spinach, salmon, nuts, and chia seeds that offer health benefits."
   },
   {
-    "question": "What is AWS?",
-    "answer": "Amazon Web Services (AWS) is a cloud computing platform offering various services like storage, databases, and virtual servers."
+    "question": "Is fasting good for health?",
+    "answer": "Intermittent fasting may benefit some people, but it is not suitable for everyone. Consult a healthcare professional before starting."
   },
   {
-    "question": "What is cybersecurity?",
-    "answer": "Cybersecurity is the practice of protecting systems, networks, and data from cyber threats."
+    "question": "What are vitamins?",
+    "answer": "Vitamins are essential nutrients that support body functions such as immunity, growth, and metabolism."
   },
   {
-    "question": "What is a database?",
-    "answer": "A database is an organized collection of data that can be stored, managed, and retrieved efficiently."
+    "question": "What foods are rich in iron?",
+    "answer": "Spinach, lentils, beans, red meat, liver, and fortified cereals are good sources of iron."
   },
   {
-    "question": "What is SQL?",
-    "answer": "SQL stands for Structured Query Language and is used to manage relational databases."
+    "question": "What foods are rich in calcium?",
+    "answer": "Milk, yogurt, cheese, tofu, almonds, and leafy green vegetables are rich in calcium."
   },
   {
-    "question": "What is an API?",
-    "answer": "An API (Application Programming Interface) allows different software applications to communicate with each other."
+    "question": "What is a balanced meal?",
+    "answer": "A balanced meal includes vegetables, lean protein, whole grains, healthy fats, and fruits."
   },
   {
-    "question": "What is JSON?",
-    "answer": "JSON (JavaScript Object Notation) is a lightweight format used to store and exchange data."
+    "question": "Can diabetics eat fruits?",
+    "answer": "Yes. People with diabetes can eat fruits in moderation, focusing on whole fruits rather than fruit juices."
   },
   {
-    "question": "What is a chatbot?",
-    "answer": "A chatbot is a software application that interacts with users through text or voice conversations."
+    "question": "How can I reduce sugar intake?",
+    "answer": "Avoid sugary drinks, reduce sweets, read food labels, and choose naturally sweet foods like fruits."
   },
   {
-    "question": "What is data science?",
-    "answer": "Data science involves extracting insights from data using statistics, programming, and machine learning."
+    "question": "Is coffee healthy?",
+    "answer": "Coffee can be part of a healthy diet when consumed in moderation and without excessive sugar or cream."
   },
   {
-    "question": "What is deep learning?",
-    "answer": "Deep learning is a subset of machine learning that uses neural networks with multiple layers."
+    "question": "Can I eat eggs every day?",
+    "answer": "Most healthy people can safely eat one egg daily as part of a balanced diet."
   },
   {
-    "question": "What is the Internet?",
-    "answer": "The Internet is a global network that connects millions of computers and devices."
+    "question": "What snacks are healthy?",
+    "answer": "Healthy snacks include fruits, yogurt, nuts, roasted chickpeas, boiled eggs, and vegetable sticks."
   },
   {
-    "question": "What is an operating system?",
-    "answer": "An operating system manages computer hardware and software resources and provides services for applications."
+    "question": "How can I gain weight healthily?",
+    "answer": "Eat nutrient-dense foods, increase protein intake, include healthy fats, and perform strength-training exercises."
   },
   {
-    "question": "What is Linux?",
-    "answer": "Linux is a free and open-source operating system widely used for servers and development."
+    "question": "What foods boost immunity?",
+    "answer": "Citrus fruits, berries, garlic, ginger, yogurt, spinach, almonds, and fish support immune health."
   },
   {
-    "question": "What is Windows?",
-    "answer": "Windows is an operating system developed by Microsoft for personal computers."
+    "question": "Should I take supplements?",
+    "answer": "Supplements should only be taken if recommended by a healthcare professional or if dietary intake is insufficient."
   },
   {
-    "question": "What is computer programming?",
-    "answer": "Programming is the process of writing instructions that tell a computer how to perform tasks."
-  },
-  {
-    "question": "What is the capital of India?",
-    "answer": "The capital of India is New Delhi."
-  },
-  {
-    "question": "What is the largest planet?",
-    "answer": "Jupiter is the largest planet in our Solar System."
-  },
-  {
-    "question": "Who invented the telephone?",
-    "answer": "Alexander Graham Bell is widely credited with inventing the practical telephone."
-  },
-  {
-    "question": "What is the speed of light?",
-    "answer": "The speed of light in a vacuum is approximately 299,792 kilometers per second."
-  },
-  {
-    "question": "What time is it?",
-    "answer": "I cannot access the current time, but your device can display it."
-  },
-  {
-    "question": "Thank you",
-    "answer": "You're welcome! Happy to help."
-  },
-  {
-    "question": "Bye",
-    "answer": "Goodbye! Have a wonderful day."
+    "question": "What is the best diet?",
+    "answer": "There is no single best diet. The healthiest diet is balanced, sustainable, and suited to your individual needs and medical conditions."
   }
 ]
